@@ -6,7 +6,7 @@ export const StyledTextSection = styled.section`
 
   ${contentBox}
   max-width: unset;
-  max-height: 180px;
+  max-height: 300px;
   position: relative;
   padding: 10px;
   margin: 0;
