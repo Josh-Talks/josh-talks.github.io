@@ -50,7 +50,8 @@ const StyledDivider = styled.div`
   background-color: var(--primary-color);
   margin-bottom: 1rem;
 `;
-const StyledFeatureDescription = styled.p`
+const StyledFeatureDescription = styled.section`
+  white-space: pre-line;
   font-size: 0.8rem;
 `;
 
@@ -61,7 +62,7 @@ const CardGrid = ({ cards, description, title, id = null }) => {
         <Icon icon={icon} prefix={prefix} />
         <StyledCardLabel>{label}</StyledCardLabel>
         <StyledDivider></StyledDivider>
-        <StyledFeatureDescription>{description}</StyledFeatureDescription>
+        <StyledFeatureDescription dangerouslySetInnerHTML={{ __html: description }} />
       </StyledFeatureCard>
     );
   });
