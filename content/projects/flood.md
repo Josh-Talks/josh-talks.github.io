@@ -2,7 +2,7 @@
 featured: true
 date: '2019-02-15'
 title: 'Real Time UK Flood Warning'
-cover_image: './images/ocean.jpg'
+cover_image: './images/flood-categories.jpg'
 demo_link: ''
 techs: ['Python']
 ---
