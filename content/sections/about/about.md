@@ -1,11 +1,11 @@
 ---
 title: 'The Gatsby starter that makes developer dreams come true!'
-about_image: './me.jpg'
-techs: ['Gatsby', 'Javascript', 'React', 'GraphQL', 'Emotion', 'Stylus']
+about_image: './IMG_0205.jpg'
+techs: ['Python', 'C, C++', 'Javascript', 'HTML', 'SQL', 'CSS', 'Django']
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas sit amet arcu tincidunt fermentum. Mauris ac nisl nibh. Etiam nunc eros, blandit vel eros laoreet, accumsan lacinia turpis.
+Hello, I am a 3rd year undergraduate studying engineering at the Univeristy of Cambridge on a four year intergrated masters course. After two years studying general engineering covering all the major disciplines I chose modules to specailise in Information and Bioengineering.
 
-Phasellus ut sagittis eros. Curabitur quis libero consequat, iaculis dolor sollicitudin, ultricies ligula. Donec sodales sed ex a fermentum. Quisque vitae efficitur odio, non aliquam sapien.
+Outside of studying I love tennis, badminton, road biking and photography. I am college captain for the badminton and play tennis for both the university and college.
 
-Proin egestas luctus ornare. Donec maximus est lobortis, pharetra dolor in, convallis lorem. Duis ut erat in lectus faucibus iaculis. In tincidunt laoreet ante, vel pellentesque risus lacinia eu.
+I am particualry intrested in robotics and software. Here are a few of the languages I have worked with.

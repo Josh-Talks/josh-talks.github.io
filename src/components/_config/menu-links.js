@@ -5,6 +5,11 @@ export const indexMenuLinks = [
     icon: 'user-tie',
   },
   {
+    name: 'Work Experience',
+    link: '/#work_experience',
+    icon: 'user-tie',
+  },
+  {
     name: 'Projects',
     link: '/#projects',
     icon: 'terminal',

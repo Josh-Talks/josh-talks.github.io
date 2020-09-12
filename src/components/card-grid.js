@@ -26,6 +26,7 @@ const StyledFeatureGridContainer = styled.section`
 const StyledFeatureCard = styled.article`
   border: 1px solid var(--body-color);
   border-radius: var(--radius);
+  background-color: var(--bg-content-color);
 
   display: flex;
   align-items: center;

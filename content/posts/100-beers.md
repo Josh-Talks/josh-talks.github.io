@@ -1,15 +1,17 @@
 ---
-date: 2020-05-31
-title: '100 Beers you must try'
-tags: ['Drinks', 'Beer', 'Craft']
+date: 2020-02-11
+title: 'PragmatIC'
+tags: ['Software', 'Python', 'Django', 'HTML', 'JavaScript']
 published: true
-cover_image: ./images/beer.jpg
+cover_image: ./images/prag.png
 canonical_url: false
-description: 'Here is my personal list for the 100 beers you should try! At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.'
+description: 'Software Engineer Intern. Interactive Web-based data analysis dashboard'
 ---
 
-# Beers
+# Software Engineer Intern
 
-1. Some beer
-2. Another beer
-3. Some Craft Beer
+Software project to create an interactive web-based data analysis dashboard.
+
+•   The dashboard provided interactive visualisation and analysis of large data sets containing 100 000s of entries via user configurable Altair plots and data tables.
+
+•   Using a Django web frame work, Python, Altair plots, JavaScript, HTML, SQL and CSS. 

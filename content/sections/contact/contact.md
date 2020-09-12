@@ -1,7 +1,7 @@
 ---
-phone: '+49 1234 5678910'
-email: 'maxmustermann@gmail.com'
-address: 'Friesenstr. 123, Berlin, Germany'
+phone: '+44 7851823348'
+email: 'joshuatalks96@gmail.com'
+address: 'Gonville and Caius College, Trinity Street, Cambridge, CB2 1TA'
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
