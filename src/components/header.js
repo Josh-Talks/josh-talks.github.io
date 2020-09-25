@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React from 'react';
-import Logo from '../assets/J-logo.svg';
+import Logo from '../assets/J-logo2.svg';
 import SocialIcons from './social-icons';
 import { socialIconList } from './_config/social-icon-list';
 import { mq } from './_shared/media';
