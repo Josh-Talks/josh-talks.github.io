@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React from 'react';
-import Logo from '../assets/logo.svg';
+import Logo from '../assets/J-logo.svg';
 import SocialIcons from './social-icons';
 import { socialIconList } from './_config/social-icon-list';
 import { mq } from './_shared/media';
@@ -31,8 +31,8 @@ const StyledLogo = styled(Logo)`
   height: var(--header-height);
   fill: var(--title-color);
 
-  &:hover path.level-2 {
-    fill: var(--primary-color);
+  &:hover {
+    fill:  var(--primary-color);
   }
 `;
 const StyledNav = styled.nav`

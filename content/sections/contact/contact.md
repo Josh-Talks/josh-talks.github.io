@@ -4,6 +4,5 @@ email: 'joshuatalks96@gmail.com'
 address: 'Gonville and Caius College, Trinity Street, Cambridge, CB2 1TA'
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy [Link to issues](https://github.com/Knochenmark/gatsby-starter-level-2/issues) tempor invidunt ut labore
-et dolore magna aliquyam erat, sed diam voluptua.
+My inbox is always open so whether you want to ask a question, discuss new ideas, oppurtunities or just connect feel free to drop me a message and chat. 
+

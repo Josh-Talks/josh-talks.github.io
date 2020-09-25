@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: '/gatsby-starter-level-2',
   siteMetadata: {
-    title: 'Level 2',
-    titleTemplate: '%s · Level 2',
-    image: '/images/logo.png',
+    title: 'Joshua Talks',
+    titleTemplate: '%s · Joshua Talks',
+    image: '/images/J-logo.png',
     author: 'Joshua Talks',
     description: 'Gatsby starter to quickly setup your portfolio and boost it to the next level.',
     url: 'https://knochenmark.github.io',
@@ -86,7 +86,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/logo.png`, // This path is relative to the root of the site.
+        icon: `src/images/J-logo.png`, // This path is relative to the root of the site.
       },
     },
     {
