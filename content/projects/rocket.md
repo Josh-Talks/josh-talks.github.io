@@ -2,7 +2,7 @@
 featured: true
 date: '2018-11-22'
 title: 'Two Stage Booster Rocket'
-cover_image: './images/motherboard.jpg'
+cover_image: './images/CUSF.png'
 repo_link: ''
 techs: ['CAD']
 ---

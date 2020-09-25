@@ -2,7 +2,7 @@
 featured: true
 date: '2019-11-22'
 title: 'Mine Clearing Robot with Computer Vision'
-cover_image: './images/motherboard.jpg'
+cover_image: './images/Picture1.png'
 repo_link: ''
 techs: ['Python', 'C/C++', 'CAD', 'EAGLE']
 ---
