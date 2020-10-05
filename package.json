@@ -61,9 +61,7 @@
   },
   "bugs": {
     "url": "https://github.com/knochenmark/gatsby-starter-level-2/issues"
-  }
-}
-{
+  },
   "scripts": {
     "deploy": "gatsby build && gh-pages -d public -b master"
   }
