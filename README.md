@@ -5,17 +5,17 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/knochenmark/gatsby-starter-level-2.svg)
 
 <p align="center">
-  <img alt="Level 2" src="./src/assets/logo.svg" width="140" />
+  <img alt="Level 2" src="./src/assets/website.png" width="140" />
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Level 2
+  Joshua Talks Portfolio Website
 </h1>
 
 <h4>
-  A minimalistic, responsive and easily configurable <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a> starter that will help to bring your portfolio to the next level.
+  A minimalistic, responsive and easily configurable <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a> portfolio website based on a starter made by <a href="https://github.com/Knochenmark" target="_blank">Knochenmark</a>.
 </h4>
 
-That's why we like to call our starter **Level 2** or short **LvL2**. The starter comes with several prepared info sections for your portfolio that can be easily configured with the main Gatsby configuration files. For content creation we are using **Markdown** files with Frontmatter attributes that can be easily edited or created.
+
 
 # Table of Contents
 
