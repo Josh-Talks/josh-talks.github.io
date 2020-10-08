@@ -5,7 +5,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/knochenmark/gatsby-starter-level-2.svg)
 
 <p align="center">
-  <img alt="Level 2" src="./src/assets/website.png" />
+  <img alt="Level 2" src="./src/assets/website_pic.png" />
 </p>
 <h1 align="center">
   Joshua Talks Portfolio Website
