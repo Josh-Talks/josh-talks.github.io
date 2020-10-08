@@ -5,4 +5,4 @@ cta_label: 'View Documentation'
 cta_link: 'https://github.com/Josh-Talks/josh-talks.github.io'
 ---
 
-I am a 3rd year undergraduate at the University of Cambridge. Studying Information/Computer engineering and Bioengineering.
+I'm a 3rd year undergraduate at the University of Cambridge. Studying Information/Computer engineering and Bioengineering.
