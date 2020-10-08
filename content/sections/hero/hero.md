@@ -1,6 +1,6 @@
 ---
 introduction: "hey it's me"
-tagline: 'Design. Code. Experiment'
+tagline: 'Explore. Code. Analyse'
 cta_label: 'View Documentation'
 cta_link: 'https://github.com/Josh-Talks/Portfolio'
 ---
